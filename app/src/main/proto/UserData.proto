@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "com.example.application";
+option java_multiple_files = true;
+
+message SaveUserData {
+  string name= 1;
+  int32 age = 2;
+}

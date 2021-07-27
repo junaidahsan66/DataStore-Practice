@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "861967791542",
+    "project_id": "awesome-vigil-292511",
+    "storage_bucket": "awesome-vigil-292511.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861967791542:android:42dde108987d1540403d17",
+        "android_client_info": {
+          "package_name": "com.aexample.test_notifi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861967791542-0q3ra0p18aer75jo3kk0rprmmvapsjlv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOi2-d4yZPsh1jdi0AGU_oEiaJcIWcE3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861967791542-0q3ra0p18aer75jo3kk0rprmmvapsjlv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
